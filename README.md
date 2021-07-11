@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I'm a ...
-Data Analytics professional with an experience of 3.5 years working in the industry. Strong foundation of Big Data & BI tools and cloud services of AWS, Azure and GCP. Worked in projects involving Machine Learning, Computer vision and Neural Networks. Graduated in July 2021 from Northeastern University with a Master's degree in Analytics and looking for a full time role in the field of Data Analytics.
+- 🔭 I'm a Data Analytics professional with an experience of 3.5 years working in the industry. Strong foundation of Big Data & BI tools and cloud services of AWS, Azure and GCP. Worked in projects involving Machine Learning, Computer vision and Neural Networks. Graduated in July 2021 from Northeastern University with a Master's degree in Analytics and looking for a full time role in the field of Data Analytics.
 
-- 📫 How to reach me...
-✉️ Email - saha.an@northeastern.edu
+- ✉️ Email - saha.an@northeastern.edu
 ℹ️ Linkedin - https://www.linkedin.com/in/anubhav-saha/
 
 - 💻 Technical Skills...
